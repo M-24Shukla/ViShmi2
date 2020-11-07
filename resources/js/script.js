@@ -23,7 +23,7 @@ $(document).ready(function() {
        $('html, body').animate({scrollTop: $('.js--section-works').offset().top},1000); 
     });
     $('.js--scroll-to-rsvp').click(function(){
-       $('html, body').animate({scrollTop: $('.js--section-cities').offset().top},1000); 
+       $('html, body').animate({scrollTop: $('.js--section-testimonials').offset().top},1000); 
     });
     $('.js--scroll-to-signup').click(function(){
        $('html, body').animate({scrollTop: $('.js--section-signup').offset().top},1000); 
